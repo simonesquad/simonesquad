@@ -1,6 +1,7 @@
 ### Welcome to my Github! This is where it all began...
 + Software developer from the U.S. 
 + First became excited about coding in Amsterdam 
++ REACT / CSS / JS / NODE / JAVA / HTML / PYTHON
 + Interested in cybersecurity, crypto, and machine learning
 + Was digital nomading for a while...
 + Environmental Science background and project development
