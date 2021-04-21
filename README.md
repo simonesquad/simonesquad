@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning ... //Djano && Smart Contract Stuff
 - 👯 I’m looking to collaborate on ...//anything opensource
 - 💬 Ask me about ... //#crypto
-- 📫 How to reach me: ... //@simoneaballard 
+- 📫 How to reach me: ... //simone.a.ballard@gmail.com
 - 😄 Pronouns: ...//She/Her
-- ⚡ Check out more >>> [portfolio coming...]
+- ⚡ Check out more >>> simoneballard.com
 
 
