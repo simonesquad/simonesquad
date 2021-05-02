@@ -7,8 +7,8 @@
 + Environmental Science background and project development
 + Passion for creative writing, music, and ART
 
-- 🔭 I’m currently working on ... //an online schooling platform
-- 🌱 I’m currently learning ... //Djano && Smart Contract Stuff
+- 🔭 I’m currently working on ... //a few secret things x
+- 🌱 I’m currently learning ... //Django Framework Applications && Smart Contract Stuffs
 - 👯 I’m looking to collaborate on ...//anything opensource
 - 💬 Ask me about ... //#crypto
 - 📫 How to reach me: ... //simone.a.ballard@gmail.com
