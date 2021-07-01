@@ -1,8 +1,8 @@
 ### Welcome to my Github! This is where it all began...
 + Software developer from the U.S. 
 + First became excited about coding in Amsterdam 
-+ REACT / CSS / JS / DJANGO / NODE / JAVA / HTML / PYTHON
-+ Interested in cybersecurity, crypto, and machine learning
++ REACT / CSS / JS / TYPESCRIPT / DJANGO / NODE / JAVA / HTML / PYTHON
++ Interested in web dev, ai, sustainable tech, cybersecurity, crypto, and machine learning
 + Was digital nomading for a while...
 + Environmental Science background and project development
 + Passion for creative writing, music, and ART
