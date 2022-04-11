@@ -5,8 +5,9 @@ loading... .
 + React.js 😎
 + HTML/CSS 🥳 
 + Python 🥺
-+ Node.js 🤠
++ fullstack? 🤠
 + Web3 curiosities 😇
++ bloggers 🥸
 
 2022 I hope to bite off a bit more! 
 
