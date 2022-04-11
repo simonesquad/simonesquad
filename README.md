@@ -1,4 +1,5 @@
-### Welcome to my Github! This is where it all began
+### Welcome to the Squad! 
+## I'm a highly opinionated developer.
 
 loading... .
 
@@ -7,9 +8,9 @@ loading... .
 + Python 🥺
 + fullstack? 🤠
 + Web3 curiosities 😇
-+ bloggers 🥸
++ bloggers/dev community 🥸
 
-2022 I hope to bite off a bit more! 
+In 2022 I hope to bite off a bit more than I can chew.
 
 Keep getting lost: www.simoneballard.com
 
