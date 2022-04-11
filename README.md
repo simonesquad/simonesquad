@@ -1,4 +1,4 @@
-### Welcome to the Squad! 
+# Welcome to the Squad! 
 ## I'm a highly opinionated developer.
 
 loading... .
