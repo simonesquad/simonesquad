@@ -10,8 +10,6 @@ loading... .
 + Web3 curiosities 😇
 + bloggers/dev community 🥸
 
-In 2022 I hope to bite off a bit more than I can chew.
-
 Keep getting lost: www.simoneballard.com
 If you're feeling generous... check out some signature causes I'm curating over the next 12 months: www.projects29.xyz
 
