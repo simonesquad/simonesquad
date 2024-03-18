@@ -5,11 +5,10 @@ loading... .
 
 + React.js 😎
 + HTML/CSS 🥳 
-+ Python 🥺
-+ fullstack? 🤠
++ Javascript 🥺
++ fullstack 🤠
 + Web3 curiosities 😇
 + bloggers/dev community 🥸
 
 Keep getting lost: www.simoneballard.com
-If you're feeling generous... check out some signature causes I'm curating over the next 12 months: www.projects29.xyz
 
