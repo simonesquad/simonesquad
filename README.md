@@ -12,3 +12,5 @@ loading... .
 
 Keep getting lost: www.simoneballard.com
 
+https://docs.google.com/presentation/d/1iBkvJOYRzV2hYmx0e58uJy3O06Cwpa3W65A91Wk658s/edit?usp=sharing
+
