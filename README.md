@@ -6,7 +6,7 @@ loading... .
 + React.js 😎
 + HTML/CSS 🥳 
 + Javascript 🥺
-+ fullstack 🤠
++ fullstack / Python 🤠
 + Web3 curiosities 😇
 + bloggers/dev community 🥸
 
